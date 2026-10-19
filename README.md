@@ -34,15 +34,16 @@ This structure demonstrates basic separation of concerns and object-oriented sof
 
 ## Running the Project
 
-The project consists of Java source files. To run it locally:
+HealthSync was developed and tested as a Java academic project.
+
+To explore or run the application locally:
 
 1. Install a Java Development Kit (JDK).
-2. Download or clone the repository.
-3. Open the project directory in a terminal or Java IDE.
-4. Compile the Java files using `javac *.java`.
-5. Run the application using `java Main`.
+2. Download or clone this repository.
+3. Open the Java source files in a Java IDE, such as IntelliJ IDEA, Eclipse, or VS Code with Java support.
+4. Compile the project and run the `Main` class.
 
-These commands assume a standard JDK installation and Java classes without package declarations.
+The project was originally developed in an academic environment. Depending on the local Java configuration, some setup adjustments may be required.
 
 ## Project Scope
 
